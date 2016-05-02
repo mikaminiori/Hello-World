@@ -1,6 +1,4 @@
-test:
- override:
-  - phpunit SampleTest
+
 
 machine:
   timezone:
